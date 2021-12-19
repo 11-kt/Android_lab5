@@ -1,0 +1,2 @@
+ru/spbstu/icc/kspt/lab2/continuewatch/BuildConfig.java
+ ru.spbstu.icc.kspt.lab2.continuewatch.BuildConfig

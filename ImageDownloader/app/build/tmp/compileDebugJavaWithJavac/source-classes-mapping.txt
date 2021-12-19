@@ -1,0 +1,2 @@
+com/example/imagedownloader/BuildConfig.java
+ com.example.imagedownloader.BuildConfig
